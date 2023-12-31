@@ -1,0 +1,6 @@
+my_tuple =("one", "two", "three", "one")
+# How many times does "one" appear in the tuple
+print(my_tuple.count("one"))
+# At what postion in the tuple can first find "one"
+print(my_tuple.index("one"))
+

@@ -1,0 +1,4 @@
+# Create the initial dictionary
+my_dictionary = {"FName":"John", "SName":"ORaw", "Occupation":"Rocket Scientist"}
+values = my_dictionary.values()
+print(values)

@@ -1,0 +1,1 @@
+copyright = "© RAFAL 2023" 
